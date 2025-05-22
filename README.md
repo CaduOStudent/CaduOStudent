@@ -1,16 +1,78 @@
-## Hi there 👋
+<!-- Minimalist & Dynamic GitHub README for Carlos -->
+<div align="center" style="font-family: Helvetica, sans-serif; color: #000; background-color: #fff; padding: 20px;">
+  <h1 style="border-bottom: 2px solid #000; padding-bottom: 10px;">Hi, I'm Carlos</h1>
+  <p><em>Developer | Project Manager | Lifelong Learner</em></p>
+</div>
 
-<!--
-**CaduOStudent/CaduOStudent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I take pride in writing clean, efficient code with a minimalist design. My work revolves around elegant solutions and a fluid style that echoes through every project—whether it's developing robust applications or managing projects with Scrum and Agile methodologies.
+
+---
+
+## Technologies & Tools
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="40" style="margin: 5px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" height="40" style="margin: 5px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" height="40" style="margin: 5px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" style="margin: 5px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="40" style="margin: 5px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" height="40" style="margin: 5px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="40" style="margin: 5px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" height="40" style="margin: 5px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" height="40" style="margin: 5px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" height="40" style="margin: 5px;">
+</p>
+
+---
+
+## Tech Stack & Proficiency
+
+Below is an approximate breakdown of my comfort level and repository usage for each technology. These progress bars update to reflect my personal skill set and the primary languages I work with.
+
+| Technology      | Proficiency Level |
+|-----------------|-------------------|
+| **Java**        | ![Java](https://progress-bar.dev/80/?title=Java) |
+| **HTML5**       | ![HTML](https://progress-bar.dev/90/?title=HTML5) |
+| **CSS3**        | ![CSS](https://progress-bar.dev/85/?title=CSS3) |
+| **JavaScript**  | ![JavaScript](https://progress-bar.dev/90/?title=JavaScript) |
+| **React**       | ![React](https://progress-bar.dev/80/?title=React) |
+| **React Native**| ![React Native](https://progress-bar.dev/75/?title=React+Native) |
+| **Linux**       | ![Linux](https://progress-bar.dev/90/?title=Linux) |
+| **Node.js**     | ![Node.js](https://progress-bar.dev/80/?title=Node.js) |
+| **Docker**      | ![Docker](https://progress-bar.dev/70/?title=Docker) |
+| **AWS**         | ![AWS](https://progress-bar.dev/65/?title=AWS) |
+
+---
+
+## Project Management Skills
+
+I'm equally comfortable managing projects, employing modern methodologies to lead efficient teams and deliver quality outcomes.
+
+| Skill   | Proficiency Level |
+|---------|-------------------|
+| **Scrum** | ![Scrum](https://progress-bar.dev/80/?title=Scrum) |
+| **Agile** | ![Agile](https://progress-bar.dev/85/?title=Agile) |
+
+---
+
+## Current Project
+
+I'm currently developing a **Weather Mobile Application** using **React Native**. The app is designed to showcase accurate forecasts and a smooth user interface. Here's a preview:
+
+![Weather App Preview](https://via.placeholder.com/600x300?text=Weather+App+Preview)
+
+Feel free to explore the repositories for more details or contributions!
+
+---
+
+## Education
+
+I'm pursuing a Bachelor's degree in **Computer Science and IT** at **CCT College Dublin**, where I continue to blend technical expertise with creative problem-solving.
+
+---
+
+Thanks for visiting my profile. Enjoy exploring my work—and let's build something great together!
