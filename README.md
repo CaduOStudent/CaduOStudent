@@ -24,7 +24,7 @@ I take pride in writing clean, efficient code with a minimalist design. My work 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="40" style="margin: 5px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" height="40" style="margin: 5px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" height="40" style="margin: 5px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" height="40" style="margin: 5px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/aws-original.svg" alt="AWS" height="40" style="margin: 5px;">
 </p>
 
 ---
